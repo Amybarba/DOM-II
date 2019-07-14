@@ -102,6 +102,11 @@ for (let i = 0; i < Adventure.length; i++) {
 //     console.log('languagechange event detected!'); 
 //   });
 
+
+
+
+
+
 // TimeStamp
 // const time = document.querySelector('.container .home');
 

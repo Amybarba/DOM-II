@@ -11,13 +11,13 @@ Topics:
   * keydown
 
 ## Objectives
- * Manipulate the DOM in response to user events using JavaScript
- * Use event listeners to handle events
+ X Manipulate the DOM in response to user events using JavaScript
+ X Use event listeners to handle events
 
 ## Beginning Project
- * You can open your `index.html` file in your browser to see your work
- * All your work will be done in `index.js`
- * Make sure to read both the `index.html` and `styles.css` files so that you know what you're working with
+ X You can open your `index.html` file in your browser to see your work
+ X All your work will be done in `index.js`
+ X Make sure to read both the `index.html` and `styles.css` files so that you know what you're working with
 
 ## Project Description
  You are going to create a simple game where rockets can be moved up and down by clicking on them.  There are travelers inside of these rockets that can blast off as long as you hold the mouse down on their rocket.
